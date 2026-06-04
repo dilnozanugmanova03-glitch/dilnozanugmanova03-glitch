@@ -6,7 +6,7 @@ Junior AI/ML Engineer from Tajikistan tj
 | Project | Description | Accuracy | Demo |
 |---------|-------------|----------|------|
 | MNIST CNN | Handwritten digit recognition | 98.68% | [Live](https://huggingface.co/spaces/dilnoza-nugmanova/mnist_fastapi) |
-| IMDB BERT | Movie sentiment analysis | 97% | [Live](https://huggingface.co/spaces/dilnoza-nugmanova/imdb-sentiment-analysis) |
+| IMDB BERT | Movie sentiment analysis | 97.72% | [Live](https://huggingface.co/spaces/dilnoza-nugmanova/imdb-sentiment-analysis) |
 
 ## 🛠 Skills
 - ML/DL: PyTorch, Transformers, CNN, BERT
