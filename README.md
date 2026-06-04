@@ -1,6 +1,6 @@
 # Hi, I'm Dilnoza Nugmanova 👩‍💻
 
-Junior AI/ML Engineer from Uzbekistan 🇺🇿
+Junior AI/ML Engineer from Tajikistan tj
 
 ## 🚀 Projects
 | Project | Description | Accuracy | Demo |
