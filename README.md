@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dilnoza Nugmanova 👩‍💻
 
-<!--
-**dilnozanugmanova03-glitch/dilnozanugmanova03-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AI/ML Engineer from Uzbekistan 🇺🇿
 
-Here are some ideas to get you started:
+## 🚀 Projects
+| Project | Description | Accuracy | Demo |
+|---------|-------------|----------|------|
+| MNIST CNN | Handwritten digit recognition | 98.68% | [Live](https://huggingface.co/spaces/dilnoza-nugmanova/mnist_fastapi) |
+| IMDB BERT | Movie sentiment analysis | 97% | [Live](https://huggingface.co/spaces/dilnoza-nugmanova/imdb-sentiment-analysis) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- ML/DL: PyTorch, Transformers, CNN, BERT
+- Backend: FastAPI, Docker
+- Tools: Git, HuggingFace, Python
+
+## 📫 Contact
+- HuggingFace: [dilnoza-nugmanova](https://huggingface.co/dilnoza-nugmanova)
+- Linkidin: www.linkedin.com/in/dilnoza-nugmanova-aa11aa3a9
+
+
